@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 
 <h1 align="center">Olá 👋, sou Maria Clara</h1>
 <h3 align="center">Aficcionada por dados e números e tudo o que tangencia a área</h3>
