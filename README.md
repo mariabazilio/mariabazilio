@@ -23,12 +23,12 @@
 
 ### 📊 Experiências e Habilidades na carreira
 
- Moodelagem de dados para construção de Views em DataWarehouse
- Alta habilidade em entendimento de regras de negócios junto ao usuário para desenvolvimento de métricas
- Produção e ajustes em Dashboards analíticos no Power BI
- Desenvolvimento de relatórios analíticos dispondo de Pacote Office para alcance de anomalias e solução de problemas
- Implementação de metodologias ágeis (SCRUM & KANBAN) para entrega de tarefas
- Forte interesse em aprendizado de novas teconologias
+ - Modelagem de dados para construção de Views em DataWarehouse
+ - Alta habilidade em entendimento de regras de negócios junto ao usuário para desenvolvimento de métricas
+ - Produção e ajustes em Dashboards analíticos no Power BI
+ - Desenvolvimento de relatórios analíticos dispondo de Pacote Office para alcance de anomalias e solução de problemas
+ - Implementação de metodologias ágeis (SCRUM & KANBAN) para entrega de tarefas
+ - Forte interesse em aprendizado de novas teconologias
 
 
 </p>
