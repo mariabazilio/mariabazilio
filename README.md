@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-  Me chamo Maria Clara Bazilio, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, curso Sistemas de Informação na Universidade Federal Fluminense e Ciência da Computação na Universidade Estácio de Sá.. Sou apaixonada por Dados e toda a análise que os envolve, além do entendimento de processos e resolução de problemas, tranformando dados brutos em insights valiosos. Além disso, atuo como Diretora de Comunicação na Atlética de Sistemas de informação, com as funções de desenvolver postagens e produzir designs semanalmente, gerando engajamento para as redes sociais e tudo o que é relacionado a esta área.
+  Me chamo Maria Clara Bazilio, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, curso Sistemas de Informação na Universidade Federal Fluminense e Ciência da Computação na Universidade Estácio de Sá. Sou apaixonada por Dados e toda a análise que os envolve, além do entendimento de processos e resolução de problemas, tranformando dados brutos em insights valiosos. Além disso, eu atuo como Diretora de Comunicação na Atlética de Sistemas de informação, com as funções de desenvolver postagens e produzir designs semanalmente, gerando engajamento para as redes sociais e tudo o que é relacionado a esta área.
 
 
 ---
